@@ -31,7 +31,7 @@ You will not need to keep these instructions in this file, since they
 are replicated in the file INSTRUCTIONS.md contained in this repository.
 As an idea, it could be something like this:
 
-> This repository belongs to ... and contains weekly blogs written by ...
+> This repository belongs to Ariella and contains weekly blogs written by Ariella
 > for a course in Open Source software development.
 
 9. When you start to make contributions, you should edit the contributions.md
