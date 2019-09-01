@@ -9,8 +9,10 @@ permalink: /about/
 **Hello.** My name is Ariella. Here are a few things about me:
 
  * I am 21 years old
- * I was born and rasied in Brooklyn, New York
- * I have the privledge of studying computer science in Hunter college
+ * I was born and grew up in Brooklyn, New York
+ * My parents immigrated from former Soviet Union republics
+ * I am a computer science student in Hunter College 
+ 
  
 
 
