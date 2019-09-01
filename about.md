@@ -14,6 +14,8 @@ permalink: /about/
  * I am a computer science student in Hunter College 
  * I am very excited to expand my knowledge and learn new things 
  * My hobbies outside of college include cycling and creative writing
+ * I love to work in teams
+ 
  
  
 
