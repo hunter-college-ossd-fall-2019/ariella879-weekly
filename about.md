@@ -12,6 +12,8 @@ permalink: /about/
  * I was born and grew up in Brooklyn, New York
  * My parents immigrated from former Soviet Union republics
  * I am a computer science student in Hunter College 
+ * I am very excited to expand my knowledge and learn new things 
+ * My hobbies outside of college include cycling and creative writing
  
  
 
