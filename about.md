@@ -4,7 +4,15 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+## Blog Number One
+
+**Hello** My name is Ariella. Here are a few things about me:
+
+ * I am 21 years old
+ * I have the privledge of studying computer science in Hunter college
+ * I live in Brooklyn, New York
+
+
 
 ### More Information
 
