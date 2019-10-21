@@ -17,8 +17,8 @@ Replace the first row below with your contribution.
 
 
 
-| Week # 2       | [My first contribution](https://www.openstreetmap.org/changeset/74404389)  | OpenStreet Map |I fixed the name of a store and added the hours in which it is open.  |
+| Week #      | [My first contribution](https://www.openstreetmap.org/changeset/74403979)  | OpenStreet Map |I fixed the name of a store and added the hours in which it is open.  |
 |---|:---|:---|:---|
-|  3  | | Blog Edit|  |
-|     |     |     |      |
-|     |     |     |      |
+| Week # 2  |[My first contribution](https://www.openstreetmap.org/changeset/74403979) | | OpenStreet Map |I fixed the name of a store and added the hours in which it is open. |
+|  Week # 3   |     |     |      |
+|  Week # 4   |     |     |      |
