@@ -20,6 +20,7 @@ Replace the first row below with your contribution.
 | Week #      | Contribution (Link) | Type | Description |
 |---|:---|:---|:---|
 | Week # 2|[Superfresh](https://www.openstreetmap.org/changeset/74403979) | OpenStreetMap| I fixed the name of a store and added the hours in which it is open.|
+| Week # 3| [Edited Sukanya's Blog](https://github.com/hunter-college-ossd-fall-2019/rajsukanya-weekly/commit/50a07d58c1533d17cb302c7d3a9a267759804be5) | Blog Edit | I fixed some grammar mistakes in Sukanya's blog|
 | Week # 3 |[Friends](https://www.openstreetmap.org/changeset/75068309)|OpenStreetMap| I fixed the name of the hair salon and added the address and hours.|
 | Week # 4|[Anatolian Gyro](https://www.openstreetmap.org/changeset/75068526#map=18/40.58679/-73.95324)|OpenStreetMap | I added a restaurant: its name, hours, address, and what cuisine it is|
 | Week # 5   | [Cherry Hill Gourmet](https://www.openstreetmap.org/changeset/76021089)| OpenStreetMap | Fixed the name of the supermarket, added the hours, payment methods, and the address    |
