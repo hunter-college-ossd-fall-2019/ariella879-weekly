@@ -30,6 +30,10 @@ Replace the first row below with your contribution.
 | Week # 12 | [Krasnoyarsk](https://en.wikipedia.org/w/index.php?title=Krasnoyarsk&diff=prev&oldid=926792215) |  Wikipedia  | I fixed the spelling and grammar mistakes in the article |
 | Week # 12 | [freeCodeCamp](https://en.wikipedia.org/w/index.php?title=FreeCodeCamp&diff=prev&oldid=926793539) |  Wikipedia  | I fixed the spelling and grammar mistakes in the article |
 | Week # 12 | [List of Grand Theft Auto: San Andreas characters](https://en.wikipedia.org/w/index.php?title=List_of_Grand_Theft_Auto:_San_Andreas_characters&diff=prev&oldid=926794360) |  Wikipedia  | I fixed the spelling and grammar mistakes in the article |
+| Week # 12 | | Blog Edit| |
+| Week # 12 | | Blog Edit| |
+| Week # 12 | | Blog Edit | |
+| Week # 12 | | Blog Edit| |
 
 
 
