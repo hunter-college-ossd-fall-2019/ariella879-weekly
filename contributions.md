@@ -30,10 +30,10 @@ Replace the first row below with your contribution.
 | Week # 12 | [Krasnoyarsk](https://en.wikipedia.org/w/index.php?title=Krasnoyarsk&diff=prev&oldid=926792215) |  Wikipedia  | I fixed the spelling and grammar mistakes in the article |
 | Week # 12 | [freeCodeCamp](https://en.wikipedia.org/w/index.php?title=FreeCodeCamp&diff=prev&oldid=926793539) |  Wikipedia  | I fixed the spelling and grammar mistakes in the article |
 | Week # 12 | [List of Grand Theft Auto: San Andreas characters](https://en.wikipedia.org/w/index.php?title=List_of_Grand_Theft_Auto:_San_Andreas_characters&diff=prev&oldid=926794360) |  Wikipedia  | I fixed the spelling and grammar mistakes in the article |
-| Week # 12 |[Pull Request of Darren's Blog](https://github.com/hunter-college-ossd-fall-2019/darrenzhang2000-weekly/pull/4) | Blog Edit| I fixed some typos in Darren's Blog|
-| Week # 12 | | Blog Edit| |
-| Week # 12 | | Blog Edit | |
-| Week # 12 | | Blog Edit| |
+| Week # 12 |[Pull Request into Darren's Blog](https://github.com/hunter-college-ossd-fall-2019/darrenzhang2000-weekly/pull/4) | Blog Edit| I fixed some typos in Darren's Blog|
+| Week # 12 |[Pull Request](https://github.com/hunter-college-ossd-fall-2019/benjaminlgur-weekly/pull/4) | Blog Edit| I fixed multiple posts in Benjamin's blog|
+| Week # 12 |[Pull Request](https://github.com/hunter-college-ossd-fall-2019/Nerouse-weekly/pull/8) | Blog Edit | I fixed some Typos and grammar mistakes |
+| Week # 12 |[Sukanya's Blog Week # 9](https://github.com/ariella879/rajsukanya-weekly/commit/e072ba3200db5b885b2dc1913899b37f17a59847#diff-b869a45343d61812c4a340df769b95c3) | Blog Edit| I fixed some grammar mistakes in Sukanya's blog|
 
 
 
