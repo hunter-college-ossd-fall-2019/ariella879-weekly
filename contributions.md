@@ -35,7 +35,7 @@ Replace the first row below with your contribution.
 | Week # 12 |[Pull Request](https://github.com/hunter-college-ossd-fall-2019/Nerouse-weekly/pull/8) | Blog Edit | I fixed some Typos and grammar mistakes |
 | Week # 12 |[Sukanya's Blog Week # 9](https://github.com/ariella879/rajsukanya-weekly/commit/e072ba3200db5b885b2dc1913899b37f17a59847#diff-b869a45343d61812c4a340df769b95c3) | Blog Edit| I fixed some grammar mistakes in Sukanya's blog|
 | Week # 10 | [Documentation Contribution](https://github.com/Bhupesh-V/30-seconds-of-cpp/blob/master/vector/vector.md)| Project Contribution| I fixed some grammar and spelling mistakes in the vector.md file|
-| Week # 12 | [Pull Request Waiting to be Merge](https://github.com/Bhupesh-V/30-seconds-of-cpp/pull/453) | Project Contribution | I demonstrated how to use a method |
+| Week # 12 | [Pull Request Waiting to be Merged](https://github.com/Bhupesh-V/30-seconds-of-cpp/pull/453) | Project Contribution | I demonstrated how to use a method |
 
 
 
