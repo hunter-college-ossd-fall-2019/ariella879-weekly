@@ -26,7 +26,6 @@ Replace the first row below with your contribution.
 | Week # 5   | [Cherry Hill Gourmet](https://www.openstreetmap.org/changeset/76021089)| OpenStreetMap | Fixed the name of the supermarket, added the hours, payment methods, and the address    |
 | Week # 6   |  [Aldi](https://www.openstreetmap.org/changeset/76021242)  | OpenStreetMap | Added a supermarket: its name, its hours of operation, and what payments it accepts  |
 | Week # 8 | [Pull Request Waiting to be Merged](https://github.com/Asiatik/codezilla/pull/460) | Project Contribution | I fixed some grammar mistakes|
-| Week # 12 | [Pull Request Waiting to be Merged](https://github.com/Bhupesh-V/30-seconds-of-cpp/pull/453) | Project Contribution | I demonstrated how to use a method |
 | Week # 12 | [Red Dead Redemption 2](https://en.wikipedia.org/w/index.php?title=Red_Dead_Redemption_2&diff=prev&oldid=925738743) | Wikipedia | I fixed some spelling and grammar mistakes in the article|
 | Week # 12 | [Russians](https://en.wikipedia.org/w/index.php?title=Russians&diff=prev&oldid=925740249) |  Wikipedia  | I fixed the spelling and grammar mistakes in the article |
 | Week # 12 | [Krasnoyarsk](https://en.wikipedia.org/w/index.php?title=Krasnoyarsk&diff=prev&oldid=926792215) |  Wikipedia  | I fixed the spelling and grammar mistakes in the article |
